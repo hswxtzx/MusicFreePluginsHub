@@ -107,9 +107,19 @@
       "version": "0.0.1"
     },
     {
+      "name": "5sing",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/5sing.js",
+      "version": "0.0.3"
+    },
+    {
       "name": "好听轻音乐",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/htqyy.js",
       "version": "0.1.0"
+    },
+    {
+      "name": "爱听",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/at.js",
+      "version": "0.0.6"
     },
     {
       "name": "种子",
